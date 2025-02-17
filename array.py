@@ -27,7 +27,7 @@ def count_vowels(input_str):
             i_count += 1
         elif ch.lower() == 'o':
             o_count += 1
-        elif ch.lower() == 'u':65
+        elif ch.lower() == 'u':
             u_count += 1
 
     # Print the counts of vowels
