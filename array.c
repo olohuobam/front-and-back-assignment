@@ -43,7 +43,8 @@ int main(){
         }
     }
     
-    printf("\nVowel counts:\n");
+    printf("\nVowel counts:\n"
+    );
     printf("A/a: %d\n", a_count);
     printf("E/e: %d\n", e_count);
     printf("I/i: %d\n", i_count);
